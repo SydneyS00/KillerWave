@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/testlevel.unity
     guid: 6047281c3780e594bafd560988408150
+  - enabled: 1
+    path: Assets/Scene/bootUp.unity
+    guid: 96de283940d3202429c0f5811326cb1b
+  - enabled: 1
+    path: Assets/Scene/gameOver.unity
+    guid: 2a2315624d5a0fb44ad5d33f1592d1d7
+  - enabled: 1
+    path: Assets/Scene/level1.unity
+    guid: dc786c1caa8496949b722a06924cadb8
+  - enabled: 1
+    path: Assets/Scene/level2.unity
+    guid: 2494a5958fa50db4e89f9bf5092790ce
+  - enabled: 1
+    path: Assets/Scene/level3.unity
+    guid: de1e5221c063b254eb22d06044d7efc8
+  - enabled: 1
+    path: Assets/Scene/shop.unity
+    guid: 23ba7cd57bb4a0f4caf0a2c1a60220db
+  - enabled: 1
+    path: Assets/Scene/title.unity
+    guid: d59f69f7b9c2e284bbe9dee075d80e29
   m_configObjects: {}
